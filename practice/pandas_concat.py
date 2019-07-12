@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 df3 = pd.DataFrame([{'A': 'A0', 'B': 'B0'}, {'A': 'A1', 'B': 'B1'}])

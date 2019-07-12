@@ -35,7 +35,7 @@ for i in sorted(words_dict.keys()):#words_dict를 키(단어)별로 정렬하고
         print(i,words_dict[i])
 
 
-lines=open('example.txt').read()
+lines=open('../example.txt').read()
 wordcloud=WordCloud().generate(lines)
 plt.figure(figsize=(12,12))
 plt.imshow(wordcloud,interpolation='bilinear')

@@ -1,4 +1,4 @@
-import numpy as np
+from practice import numpy as np
 import cv2 as cv
 from skimage import io
 from matplotlib import pyplot as plt
