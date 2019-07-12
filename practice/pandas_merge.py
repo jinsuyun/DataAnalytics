@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 df1 = pd.DataFrame([{'employee': 'Bob', 'Group': 'Accounting'}, {'employee': 'Jake', 'Group': 'Engineering'},

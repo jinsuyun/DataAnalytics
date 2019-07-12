@@ -1,5 +1,4 @@
-import numpy as np
-import pandas as pd
+from practice import numpy as np
 from matplotlib import pyplot as plt
 
 # x=np.linspace(-np.pi,np.pi,100)
